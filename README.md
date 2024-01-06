@@ -1,4 +1,4 @@
-# 343_Delivery
+The Amazawn project, a collaborative effort of six developers, employs sprint strategies and an MVC system. This platform streamlines shipping services, offering essential features like account creation, robust user authentication, real-time tracking, and an efficient email notification system. The tech stack includes a React front end, Java-based backend, and SQL database, showcasing proficiency in modern web development tools and technologies.
 
 ### Objective
 
@@ -6,7 +6,7 @@ Design and develop a software system for delivery service.
 
 ### Project Description
 
-Amazawn is a user-friendly platform that ...
+Amazawn is a user-friendly platform that provides the following features
 
 ### Core Features
 
@@ -16,21 +16,3 @@ Amazawn is a user-friendly platform that ...
 4. Tracking the order
 5. Payment
 6. Review of service
-
-### Team Members & Roles
-
-| Name | Student ID | Role |
-| ------------- | ------------- | -----------|
-| Leo Brodeur  | 40216409 | Team Lead & Back End Developer |
-| Layana Muhdi Al Tounsi | 40125569 | Front End Developer |
-| Lauren Rigante | 40188593 | Back End Developer |
-| Racha Kara | 40210865 | Front End Developer |
-| Imane Madda | 40208741 | Front End Developer |
-| Matthew Flaherty | 40228462 | Back End Developer |
-
-### Steps to Launch Website
-1. Clone repository locally
-2. Run `cd Frontend` and `cd amazawn`
-3. Run `npm install`
-4. Run `npm start` 
-
