@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AmazawnShipping/static/css/main.4570c060.css",
+    "main.js": "/AmazawnShipping/static/js/main.4ac642ac.js",
+    "static/js/787.6c01c668.chunk.js": "/AmazawnShipping/static/js/787.6c01c668.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/AmazawnShipping/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/AmazawnShipping/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/AmazawnShipping/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/AmazawnShipping/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/AmazawnShipping/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/support.png": "/AmazawnShipping/static/media/support.331385a20c29bdb4881b.png",
+    "static/media/LOGO2.png": "/AmazawnShipping/static/media/LOGO2.b44df6c2e7e948d8e7a0.png",
+    "static/media/HOMPAGE.png": "/AmazawnShipping/static/media/HOMPAGE.c6452519f666aad1ef73.png",
+    "index.html": "/AmazawnShipping/index.html",
+    "main.4570c060.css.map": "/AmazawnShipping/static/css/main.4570c060.css.map",
+    "main.4ac642ac.js.map": "/AmazawnShipping/static/js/main.4ac642ac.js.map",
+    "787.6c01c668.chunk.js.map": "/AmazawnShipping/static/js/787.6c01c668.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4570c060.css",
+    "static/js/main.4ac642ac.js"
+  ]
+}
